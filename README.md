@@ -6,7 +6,7 @@
 ## I'm a Front-end & WordPress Developer!
 
 - 💼 I’m currently working at [Outhands Internet & Media][outhands]
-- ☕ Also, I can't live without my daily dose of coffee
+- ☕ I can't live without my daily dose of coffee
 - 🥅 2022 Goals: Becoming a React master 
 - 🎨 Besides development, I love UX & UI design
 
