@@ -7,7 +7,7 @@
 
 - 💼 I’m currently working at [Outhands Internet & Media][outhands]
 - ☕ I can't live without my daily dose of coffee
-- 🥅 2022 Goals: Becoming a React master 
+- 🥅 2023 Goals: Becoming a ReactJS master 
 - 🎨 Besides development, I love UX & UI design
 
 [outhands]: http://www.outhands.nl
